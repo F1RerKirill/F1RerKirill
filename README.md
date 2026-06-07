@@ -1,3 +1,5 @@
+<div align="center" style="border: 2px solid #0088ff; border-radius: 15px; padding: 20px; margin: 20px;">
+
 # 🎮 CS LOw — Твой клан
 
 <img src="https://img.shields.io/badge/CS%20LOw-Присоединяйся!-blue?style=for-the-badge&logo=counter-strike&logoColor=white" />
@@ -17,4 +19,6 @@
 ![Mirage](https://img.shields.io/badge/Любимая_карта-Mirage-yellow?style=flat&logo=counter-strike)
 
 ---
-*© 2024 CS LOw. Все права защищены.*
+*© 2026 CS LOw. Все права защищены.*
+
+</div>
